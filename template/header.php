@@ -18,13 +18,13 @@
                 <a class="nav-link" href="index.php">INSTITUTO ACV</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="./nosotros.php">Nosotros</a>
+                <a class="nav-link" href="nosotros.php">Nosotros</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Asignaturas</a>
+                <a class="nav-link" href="asignaturas.php">Asignaturas</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Estudiantes</a>
+                <a class="nav-link" href="estudiantes.php">Estudiantes</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Matricular Estudiantes</a>
